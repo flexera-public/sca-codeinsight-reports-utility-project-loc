@@ -1,0 +1,16 @@
+{
+    "reportName" : "Project Lock Utility",
+    "enableProjectPickerValue" : "false",
+    "reportOptions" : { 
+        "option1" : 
+        {
+            "name" : "includeChildProjects",
+            "label" : "Manage child projects? (True/False)",
+            "description" : "Should the utilty manage child projects? <b>(True/False)</b>",
+            "type" : "string",
+            "defaultValue" : "True",
+            "required" : "true",
+            "order" : "1"
+        }
+    }
+}
